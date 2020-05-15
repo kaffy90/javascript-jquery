@@ -1,2 +1,2 @@
 # javascript-jquery
-build Simon game web app with html-css-javascript-jquery
+build Simon game with html-css-javascript-jquery
